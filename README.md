@@ -1,2 +1,2 @@
 # InventarioLibrosSpringBoot
-Fullstack
+Primer proyecto en SpringBoot Guiado para Fullstack.
